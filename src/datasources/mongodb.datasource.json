@@ -1,0 +1,5 @@
+{
+  "name": "mongodb",
+  "connector": "memory",
+  "file": "./local_db.json"
+}
